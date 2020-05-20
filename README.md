@@ -1,4 +1,4 @@
-### Este es mi segundo repositorio
+# Este es mi segundo repositorio
 
 ## En este repositorio voy a:
 
@@ -31,6 +31,6 @@ echo "hola mundo!"
 
 ```
 
-# Markdown hecho por *Daniel Donoso* 
+### Markdown hecho por *Daniel Donoso* 
 
 
